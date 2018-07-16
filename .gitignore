@@ -1,0 +1,17 @@
+*.apk
+*.class
+*.ap_
+*.iml
+*.ipr
+*.iws 
+*.dex
+bin/
+gen/
+.classpath
+.project
+proguard/
+.idea/
+.gradle/
+build/
+local.properties
+.DS_Store
